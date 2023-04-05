@@ -1,5 +1,5 @@
 <?php
-include $_SERVER['DOCUMENT_ROOT'].'/assets/header.php';
+include $_SERVER['DOCUMENT_ROOT'].'/complements/header.php';
 ?>
 
 <h1>Página Creada para los alumnos del máster de SEO Técnico</h1>
@@ -9,5 +9,5 @@ include $_SERVER['DOCUMENT_ROOT'].'/assets/header.php';
 
 
 <?php
-include $_SERVER['DOCUMENT_ROOT'].'/assets/footer.php';
+include $_SERVER['DOCUMENT_ROOT'].'/complements/footer.php';
 ?>
